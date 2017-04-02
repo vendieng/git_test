@@ -1,0 +1,1 @@
+This is Vendela's first Git project!
